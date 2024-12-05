@@ -27,5 +27,4 @@ Diese Datenschutzerklärung kann gelegentlich aktualisiert werden, um rechtliche
 
 ## 7. Kontakt
 Bei Fragen zur Datenschutzerklärung können Sie sich an den Entwickler des Skills wenden:
-- **E-Mail:** [Deine E-Mail-Adresse]
-- **Website:** [Optionale Website]
+- **E-Mail:** pumbik3@web.de
